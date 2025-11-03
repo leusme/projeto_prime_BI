@@ -94,7 +94,7 @@ Este projeto também serve como **portfólio pessoal de Business Intelligence**,
 
 ## 🪪 Autor
 **Leonardo Bezerra**  
-📧 *[adicionar seu e-mail profissional ou LinkedIn aqui]*  
+📧 contatoleonardoboliveira@gmail.com
 💼 Projeto em desenvolvimento para portfólio Power BI
 
 ---

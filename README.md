@@ -100,7 +100,7 @@ Este projeto também serve como **portfólio pessoal de Business Intelligence**,
 ---
 
 ## 🗂️ Como abrir o projeto
-1. Baixe o arquivo [`aulaprime.pbix`](./aulaprime.pbix)  
+1. Baixe o arquivo [`projeto_prime_bi.pbix`](./projeto_prime_bi.pbix)  
 2. Abra com o **Microsoft Power BI Desktop**  
 3. Explore as tabelas, medidas e relacionamentos criados  
 4. (Visualizações e dashboards serão adicionados nas próximas versões)
